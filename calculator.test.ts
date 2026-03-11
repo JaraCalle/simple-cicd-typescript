@@ -7,9 +7,7 @@ declare global {
   }
 }
 
-beforeAll(() => {
-  require("./calculator.js");
-});
+import "./sum.js";
 
 describe("Calculator", () => {
 
