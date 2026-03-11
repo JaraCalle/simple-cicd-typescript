@@ -7,7 +7,7 @@ declare global {
   }
 }
 
-import "./sum.js";
+import "./calculator.js";
 
 describe("Calculator", () => {
 
